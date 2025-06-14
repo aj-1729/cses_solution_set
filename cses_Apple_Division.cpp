@@ -31,7 +31,8 @@ int solve(int n , int ind , vi& vec , int sum1 , int sum2)
 int32_t main(){
     ios::sync_with_stdio(false);
     cin.tie(NULL);
-    int n ; cin >> n ; 
+    int n ; cin >> n ;  
+    int test ; 
 
     vi vec(n) ; f(n) cin >> vec[i] ; 
 
